@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <a href="https://www.linkedin.com/in/alexander-royal/"></a>
+  <a href="https://www.linkedin.com/in/alexander-royal/"><img src"https://www.flaticon.com/free-icon/linkedin_174857"</a>
 </p>
   
