@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://www.youtube.com/royal-academy" target="_blank">Image</a>
-  <img src="https://github-readme.stats.vercel.app/api?username=asderoyal&show_icons-true" alt="ASDEROYAL">
+  <img src="https://github.com/anuraghazra/github-readme-stats">
 </p>
 
 <p>
