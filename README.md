@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/alexander-royal/" target="_blank">Alexander de R</a>
 - ⚡ Fun fact: I also have YouTube Channel <a href="https://youtube.com/royal-academy" target="_blank">Alexander de R</a>
 
-<p align="center">
+<p align="left">
   <a href="www.youtube.com/c/royal-academy/" target="_blank"><img src="https://icons8.com/icon/33280/code-fork" height="200" width="200"</a>
     <img src="https://github-readme-stats.vercel.app/api?username=asderoyal&show_icons=true" alt="asderoyal">
 </p>
