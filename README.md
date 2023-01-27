@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also have YouTube Channel <a href="https://youtube.com/royal-academy" target="_blank">Alexander de R</a>
 
 <p align="center">
-  <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/blob/main/finallogo1.jpg height="200" width="200"</a>
-    <img src="https://github-readme-stats.vercel.app/api?username=KushalVijay&show_icons=true" alt="asderoyal">
+  <a href="www.youtube.com/c/royal-academy/" target="_blank"><img src="https://github.com/asderoyal/blob/main/finallogo1.jpg height="200" width="200"</a>
+    <img src="https://github-readme-stats.vercel.app/api?username=asderoyal&show_icons=true" alt="asderoyal">
 </p>
 
 <p>
