@@ -28,10 +28,9 @@ Here are some ideas to get you started:
   <img src="https://github-readme.stats.vercel.app/api?username=asderoyal&show_icons-true" alt="ASDEROYAL">
 </p>
 
-https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg
-
 <p>
   <a href="https://www.linkedin.com/in/alexander-royal/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="30"></a>
   <a href="https://www.youtube.com/royal-academy/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" height="30" width="30">      </a>
+  <a href="https://www.github.com/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" height="30" width="30"></a>
 </p>
   
