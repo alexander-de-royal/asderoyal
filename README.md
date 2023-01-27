@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I also have YouTube Channel <a href="https://youtube.com/royal-academy" target="_blank">Alexander de R</a>
 
 <p>
-  <a href="https://www.youtube.com/royal-academy" target="_blank">Image</a>
-  <img src="https://github.com/anuraghazra/github-readme-stats">
-</p>
-
-<p>
   <a href="https://www.linkedin.com/in/alexander-royal/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" height="30" width="30"></a>
   <a href="https://www.youtube.com/royal-academy/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" height="30" width="30">      </a>
   <a href="https://www.github.com/asderoyal/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" height="30" width="30"></a>
