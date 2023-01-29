@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Hi there, I am Alexander de R 😄 </h3>
+<h3>I am Alexander de R 😄 </h3>
 
 - 🔭 I’m currently working on <a href="https://travellete.com" target="_blank">Travellete</a>
 - 💬 Ask me about <strong>HTML, CSS, JavaScript, Data Structures & Algorithms.</strong>
